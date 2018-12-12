@@ -1,7 +1,7 @@
 # SCIP
 Shopping Cart Item Predictor through Bayesian inference
 
-### [Web GUI](http://try.ui.sav.sk/convenience-rs/) in IKT group
+### Deployment demo in [IKT group](http://try.ui.sav.sk/convenience-rs/)
 - Private datasets
 
 ### Publications:
