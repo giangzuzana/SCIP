@@ -1,5 +1,5 @@
-# SCIP
-Shopping Cart Item Predictor through Bayesian inference
+# SCIP - Shopping Cart Item Predictor through Bayesian inference
+<a href="https://doi.org/10.5281/zenodo.3575191"><img src="https://zenodo.org/badge/160925401.svg" alt="DOI"></a>
 
 ### Deployment demo in [IKT group](http://try.ui.sav.sk/convenience-rs/)
 - Private large-scale datasets
